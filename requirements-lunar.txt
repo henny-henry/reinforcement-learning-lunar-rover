@@ -1,0 +1,4 @@
+-r requirements.txt
+# Box2D exposes the module used by Gymnasium's LunarLander.
+Box2D==2.3.10
+pygame>=2.1,<3

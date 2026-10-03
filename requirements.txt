@@ -1,0 +1,9 @@
+# Python 3.11/3.12. Compatibility environment, not a recovered historical lockfile.
+tensorflow==2.19.0
+keras==3.15.1
+gymnasium==1.1.1
+numpy>=1.26,<2.2
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+jupyterlab>=4,<5
+nbconvert>=7,<8

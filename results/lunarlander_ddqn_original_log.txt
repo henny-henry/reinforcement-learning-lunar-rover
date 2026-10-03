@@ -1,0 +1,969 @@
+Running reward: -365.57 at episode 1, eps = 1.0000
+Running reward: -226.67 at episode 2, eps = 1.0000
+Running reward: -196.23 at episode 3, eps = 1.0000
+Running reward: -178.18 at episode 4, eps = 1.0000
+Running reward: -156.63 at episode 5, eps = 1.0000
+Running reward: -166.15 at episode 6, eps = 1.0000
+Running reward: -161.74 at episode 7, eps = 1.0000
+Running reward: -151.37 at episode 8, eps = 1.0000
+Running reward: -148.48 at episode 9, eps = 1.0000
+Running reward: -145.24 at episode 10, eps = 1.0000
+Running reward: -142.48 at episode 11, eps = 1.0000
+Running reward: -136.04 at episode 12, eps = 1.0000
+Running reward: -131.73 at episode 13, eps = 1.0000
+Running reward: -132.84 at episode 14, eps = 1.0000
+Running reward: -153.40 at episode 15, eps = 1.0000
+Running reward: -162.49 at episode 16, eps = 1.0000
+Running reward: -166.75 at episode 17, eps = 1.0000
+Running reward: -166.55 at episode 18, eps = 1.0000
+Running reward: -178.65 at episode 19, eps = 1.0000
+Running reward: -172.75 at episode 20, eps = 1.0000
+Running reward: -173.59 at episode 21, eps = 0.9980
+Running reward: -170.19 at episode 22, eps = 0.9960
+Running reward: -167.58 at episode 23, eps = 0.9941
+Running reward: -164.66 at episode 24, eps = 0.9921
+Running reward: -171.58 at episode 25, eps = 0.9901
+Running reward: -171.67 at episode 26, eps = 0.9881
+Running reward: -169.65 at episode 27, eps = 0.9861
+Running reward: -178.68 at episode 28, eps = 0.9842
+Running reward: -177.68 at episode 29, eps = 0.9822
+Running reward: -175.06 at episode 30, eps = 0.9802
+Running reward: -173.75 at episode 31, eps = 0.9782
+Running reward: -177.72 at episode 32, eps = 0.9762
+Running reward: -171.80 at episode 33, eps = 0.9743
+Running reward: -169.21 at episode 34, eps = 0.9723
+Running reward: -172.24 at episode 35, eps = 0.9703
+Running reward: -171.22 at episode 36, eps = 0.9683
+Running reward: -170.78 at episode 37, eps = 0.9663
+Running reward: -171.04 at episode 38, eps = 0.9644
+Running reward: -177.87 at episode 39, eps = 0.9624
+Running reward: -175.62 at episode 40, eps = 0.9604
+Running reward: -174.39 at episode 41, eps = 0.9584
+Running reward: -177.51 at episode 42, eps = 0.9564
+Running reward: -177.14 at episode 43, eps = 0.9545
+Running reward: -182.10 at episode 44, eps = 0.9525
+Running reward: -186.15 at episode 45, eps = 0.9505
+Running reward: -186.36 at episode 46, eps = 0.9485
+Running reward: -184.94 at episode 47, eps = 0.9465
+Running reward: -185.94 at episode 48, eps = 0.9446
+Running reward: -184.57 at episode 49, eps = 0.9426
+Running reward: -182.67 at episode 50, eps = 0.9406
+Running reward: -180.46 at episode 51, eps = 0.9386
+Running reward: -178.32 at episode 52, eps = 0.9366
+Running reward: -177.06 at episode 53, eps = 0.9347
+Running reward: -174.85 at episode 54, eps = 0.9327
+Running reward: -176.34 at episode 55, eps = 0.9307
+Running reward: -178.12 at episode 56, eps = 0.9287
+Running reward: -176.72 at episode 57, eps = 0.9267
+Running reward: -175.27 at episode 58, eps = 0.9248
+Running reward: -174.49 at episode 59, eps = 0.9228
+Running reward: -173.07 at episode 60, eps = 0.9208
+Running reward: -175.39 at episode 61, eps = 0.9188
+Running reward: -173.99 at episode 62, eps = 0.9168
+Running reward: -172.66 at episode 63, eps = 0.9149
+Running reward: -173.12 at episode 64, eps = 0.9129
+Running reward: -171.34 at episode 65, eps = 0.9109
+Running reward: -171.04 at episode 66, eps = 0.9089
+Running reward: -172.06 at episode 67, eps = 0.9069
+Running reward: -172.03 at episode 68, eps = 0.9050
+Running reward: -171.09 at episode 69, eps = 0.9030
+Running reward: -170.78 at episode 70, eps = 0.9010
+Running reward: -169.49 at episode 71, eps = 0.8990
+Running reward: -169.33 at episode 72, eps = 0.8970
+Running reward: -169.03 at episode 73, eps = 0.8951
+Running reward: -169.48 at episode 74, eps = 0.8931
+Running reward: -167.70 at episode 75, eps = 0.8911
+Running reward: -166.75 at episode 76, eps = 0.8891
+Running reward: -165.87 at episode 77, eps = 0.8871
+Running reward: -164.41 at episode 78, eps = 0.8852
+Running reward: -163.97 at episode 79, eps = 0.8832
+Running reward: -163.47 at episode 80, eps = 0.8812
+Running reward: -163.05 at episode 81, eps = 0.8792
+Running reward: -162.48 at episode 82, eps = 0.8772
+Running reward: -161.73 at episode 83, eps = 0.8753
+Running reward: -161.06 at episode 84, eps = 0.8733
+Running reward: -159.94 at episode 85, eps = 0.8713
+Running reward: -159.14 at episode 86, eps = 0.8693
+Running reward: -158.45 at episode 87, eps = 0.8673
+Running reward: -157.69 at episode 88, eps = 0.8654
+Running reward: -157.43 at episode 89, eps = 0.8634
+Running reward: -157.29 at episode 90, eps = 0.8614
+Running reward: -156.35 at episode 91, eps = 0.8594
+Running reward: -155.82 at episode 92, eps = 0.8574
+Running reward: -155.20 at episode 93, eps = 0.8555
+Running reward: -155.30 at episode 94, eps = 0.8535
+Running reward: -154.73 at episode 95, eps = 0.8515
+Running reward: -154.02 at episode 96, eps = 0.8495
+Running reward: -152.97 at episode 97, eps = 0.8475
+Running reward: -152.01 at episode 98, eps = 0.8456
+Running reward: -151.50 at episode 99, eps = 0.8436
+Running reward: -151.01 at episode 100, eps = 0.8416
+Running reward: -149.57 at episode 101, eps = 0.8396
+Running reward: -149.46 at episode 102, eps = 0.8376
+Running reward: -149.16 at episode 103, eps = 0.8357
+Running reward: -148.81 at episode 104, eps = 0.8337
+Running reward: -148.90 at episode 105, eps = 0.8317
+Running reward: -147.39 at episode 106, eps = 0.8297
+Running reward: -146.88 at episode 107, eps = 0.8277
+Running reward: -147.29 at episode 108, eps = 0.8258
+Running reward: -146.58 at episode 109, eps = 0.8238
+Running reward: -146.43 at episode 110, eps = 0.8218
+Running reward: -146.25 at episode 111, eps = 0.8198
+Running reward: -146.54 at episode 112, eps = 0.8178
+Running reward: -147.19 at episode 113, eps = 0.8159
+Running reward: -146.76 at episode 114, eps = 0.8139
+Running reward: -143.48 at episode 115, eps = 0.8119
+Running reward: -141.24 at episode 116, eps = 0.8099
+Running reward: -139.37 at episode 117, eps = 0.8079
+Running reward: -138.57 at episode 118, eps = 0.8060
+Running reward: -135.97 at episode 119, eps = 0.8040
+Running reward: -136.45 at episode 120, eps = 0.8020
+Running reward: -135.01 at episode 121, eps = 0.8000
+Running reward: -135.00 at episode 122, eps = 0.7980
+Running reward: -134.56 at episode 123, eps = 0.7961
+Running reward: -134.27 at episode 124, eps = 0.7941
+Running reward: -132.81 at episode 125, eps = 0.7921
+Running reward: -133.25 at episode 126, eps = 0.7901
+Running reward: -132.80 at episode 127, eps = 0.7881
+Running reward: -129.64 at episode 128, eps = 0.7862
+Running reward: -128.89 at episode 129, eps = 0.7842
+Running reward: -128.67 at episode 130, eps = 0.7822
+Running reward: -128.20 at episode 131, eps = 0.7802
+Running reward: -126.16 at episode 132, eps = 0.7782
+Running reward: -127.44 at episode 133, eps = 0.7763
+Running reward: -127.54 at episode 134, eps = 0.7743
+Running reward: -125.36 at episode 135, eps = 0.7723
+Running reward: -124.58 at episode 136, eps = 0.7703
+Running reward: -123.63 at episode 137, eps = 0.7683
+Running reward: -122.23 at episode 138, eps = 0.7664
+Running reward: -117.97 at episode 139, eps = 0.7644
+Running reward: -118.44 at episode 140, eps = 0.7624
+Running reward: -118.14 at episode 141, eps = 0.7604
+Running reward: -116.18 at episode 142, eps = 0.7584
+Running reward: -115.37 at episode 143, eps = 0.7565
+Running reward: -112.62 at episode 144, eps = 0.7545
+Running reward: -109.91 at episode 145, eps = 0.7525
+Running reward: -108.63 at episode 146, eps = 0.7505
+Running reward: -107.87 at episode 147, eps = 0.7485
+Running reward: -106.36 at episode 148, eps = 0.7466
+Running reward: -105.67 at episode 149, eps = 0.7446
+Running reward: -105.51 at episode 150, eps = 0.7426
+Running reward: -105.96 at episode 151, eps = 0.7406
+Running reward: -106.49 at episode 152, eps = 0.7386
+Running reward: -106.21 at episode 153, eps = 0.7367
+Running reward: -105.98 at episode 154, eps = 0.7347
+Running reward: -104.26 at episode 155, eps = 0.7327
+Running reward: -103.86 at episode 156, eps = 0.7307
+Running reward: -104.15 at episode 157, eps = 0.7287
+Running reward: -104.00 at episode 158, eps = 0.7268
+Running reward: -103.55 at episode 159, eps = 0.7248
+Running reward: -103.09 at episode 160, eps = 0.7228
+Running reward: -100.12 at episode 161, eps = 0.7208
+Running reward: -99.77 at episode 162, eps = 0.7188
+Running reward: -99.70 at episode 163, eps = 0.7169
+Running reward: -98.54 at episode 164, eps = 0.7149
+Running reward: -98.61 at episode 165, eps = 0.7129
+Running reward: -97.91 at episode 166, eps = 0.7109
+Running reward: -96.55 at episode 167, eps = 0.7089
+Running reward: -95.51 at episode 168, eps = 0.7070
+Running reward: -94.71 at episode 169, eps = 0.7050
+Running reward: -93.82 at episode 170, eps = 0.7030
+Running reward: -93.66 at episode 171, eps = 0.7010
+Running reward: -93.06 at episode 172, eps = 0.6990
+Running reward: -92.03 at episode 173, eps = 0.6971
+Running reward: -90.23 at episode 174, eps = 0.6951
+Running reward: -90.74 at episode 175, eps = 0.6931
+Running reward: -90.47 at episode 176, eps = 0.6911
+Running reward: -89.85 at episode 177, eps = 0.6891
+Running reward: -89.87 at episode 178, eps = 0.6872
+Running reward: -88.76 at episode 179, eps = 0.6852
+Running reward: -88.51 at episode 180, eps = 0.6832
+Running reward: -88.18 at episode 181, eps = 0.6812
+Running reward: -87.70 at episode 182, eps = 0.6792
+Running reward: -87.23 at episode 183, eps = 0.6773
+Running reward: -86.42 at episode 184, eps = 0.6753
+Running reward: -86.33 at episode 185, eps = 0.6733
+Running reward: -86.06 at episode 186, eps = 0.6713
+Running reward: -85.16 at episode 187, eps = 0.6693
+Running reward: -84.80 at episode 188, eps = 0.6674
+Running reward: -83.87 at episode 189, eps = 0.6654
+Running reward: -83.07 at episode 190, eps = 0.6634
+Running reward: -82.91 at episode 191, eps = 0.6614
+Running reward: -82.25 at episode 192, eps = 0.6594
+Running reward: -81.71 at episode 193, eps = 0.6575
+Running reward: -80.86 at episode 194, eps = 0.6555
+Running reward: -80.68 at episode 195, eps = 0.6535
+Running reward: -80.22 at episode 196, eps = 0.6515
+Running reward: -80.64 at episode 197, eps = 0.6495
+Running reward: -80.37 at episode 198, eps = 0.6476
+Running reward: -79.92 at episode 199, eps = 0.6456
+Running reward: -79.22 at episode 200, eps = 0.6436
+Running reward: -77.53 at episode 201, eps = 0.6416
+Running reward: -77.73 at episode 202, eps = 0.6396
+Running reward: -77.61 at episode 203, eps = 0.6377
+Running reward: -77.23 at episode 204, eps = 0.6357
+Running reward: -77.69 at episode 205, eps = 0.6337
+Running reward: -77.41 at episode 206, eps = 0.6317
+Running reward: -77.28 at episode 207, eps = 0.6297
+Running reward: -76.74 at episode 208, eps = 0.6278
+Running reward: -76.26 at episode 209, eps = 0.6258
+Running reward: -76.24 at episode 210, eps = 0.6238
+Running reward: -76.00 at episode 211, eps = 0.6218
+Running reward: -75.12 at episode 212, eps = 0.6198
+Running reward: -73.82 at episode 213, eps = 0.6179
+Partly solved at episode 213!
+Running reward: -72.83 at episode 214, eps = 0.6159
+Partly solved at episode 214!
+Running reward: -72.90 at episode 215, eps = 0.6139
+Partly solved at episode 215!
+Running reward: -72.52 at episode 216, eps = 0.6119
+Partly solved at episode 216!
+Running reward: -72.84 at episode 217, eps = 0.6099
+Partly solved at episode 217!
+Running reward: -72.89 at episode 218, eps = 0.6080
+Partly solved at episode 218!
+Running reward: -71.84 at episode 219, eps = 0.6060
+Partly solved at episode 219!
+Running reward: -71.14 at episode 220, eps = 0.6040
+Partly solved at episode 220!
+Running reward: -71.13 at episode 221, eps = 0.6020
+Partly solved at episode 221!
+Running reward: -70.09 at episode 222, eps = 0.6000
+Partly solved at episode 222!
+Running reward: -70.10 at episode 223, eps = 0.5981
+Partly solved at episode 223!
+Running reward: -69.54 at episode 224, eps = 0.5961
+Partly solved at episode 224!
+Running reward: -68.05 at episode 225, eps = 0.5941
+Partly solved at episode 225!
+Running reward: -65.85 at episode 226, eps = 0.5921
+Partly solved at episode 226!
+Running reward: -65.36 at episode 227, eps = 0.5901
+Partly solved at episode 227!
+Running reward: -65.13 at episode 228, eps = 0.5882
+Partly solved at episode 228!
+Running reward: -64.86 at episode 229, eps = 0.5862
+Partly solved at episode 229!
+Running reward: -64.32 at episode 230, eps = 0.5842
+Partly solved at episode 230!
+Running reward: -64.05 at episode 231, eps = 0.5822
+Partly solved at episode 231!
+Running reward: -63.35 at episode 232, eps = 0.5802
+Partly solved at episode 232!
+Running reward: -62.14 at episode 233, eps = 0.5783
+Partly solved at episode 233!
+Running reward: -61.21 at episode 234, eps = 0.5763
+Partly solved at episode 234!
+Running reward: -60.58 at episode 235, eps = 0.5743
+Partly solved at episode 235!
+Running reward: -61.51 at episode 236, eps = 0.5723
+Partly solved at episode 236!
+Running reward: -61.14 at episode 237, eps = 0.5703
+Partly solved at episode 237!
+Running reward: -60.96 at episode 238, eps = 0.5684
+Partly solved at episode 238!
+Running reward: -61.40 at episode 239, eps = 0.5664
+Partly solved at episode 239!
+Running reward: -60.44 at episode 240, eps = 0.5644
+Partly solved at episode 240!
+Running reward: -59.21 at episode 241, eps = 0.5624
+Partly solved at episode 241!
+Running reward: -58.66 at episode 242, eps = 0.5604
+Partly solved at episode 242!
+Running reward: -57.93 at episode 243, eps = 0.5585
+Partly solved at episode 243!
+Running reward: -57.50 at episode 244, eps = 0.5565
+Partly solved at episode 244!
+Running reward: -57.59 at episode 245, eps = 0.5545
+Partly solved at episode 245!
+Running reward: -58.98 at episode 246, eps = 0.5525
+Partly solved at episode 246!
+Running reward: -59.00 at episode 247, eps = 0.5505
+Partly solved at episode 247!
+Running reward: -58.97 at episode 248, eps = 0.5486
+Partly solved at episode 248!
+Running reward: -58.90 at episode 249, eps = 0.5466
+Partly solved at episode 249!
+Running reward: -60.10 at episode 250, eps = 0.5446
+Partly solved at episode 250!
+Running reward: -59.00 at episode 251, eps = 0.5426
+Partly solved at episode 251!
+Running reward: -58.62 at episode 252, eps = 0.5406
+Partly solved at episode 252!
+Running reward: -57.90 at episode 253, eps = 0.5387
+Partly solved at episode 253!
+Running reward: -57.67 at episode 254, eps = 0.5367
+Partly solved at episode 254!
+Running reward: -57.28 at episode 255, eps = 0.5347
+Partly solved at episode 255!
+Running reward: -56.08 at episode 256, eps = 0.5327
+Partly solved at episode 256!
+Running reward: -55.09 at episode 257, eps = 0.5307
+Partly solved at episode 257!
+Running reward: -54.54 at episode 258, eps = 0.5288
+Partly solved at episode 258!
+Running reward: -53.57 at episode 259, eps = 0.5268
+Partly solved at episode 259!
+Running reward: -52.92 at episode 260, eps = 0.5248
+Partly solved at episode 260!
+Running reward: -53.38 at episode 261, eps = 0.5228
+Partly solved at episode 261!
+Running reward: -53.37 at episode 262, eps = 0.5208
+Partly solved at episode 262!
+Running reward: -53.22 at episode 263, eps = 0.5189
+Partly solved at episode 263!
+Running reward: -55.06 at episode 264, eps = 0.5169
+Partly solved at episode 264!
+Running reward: -54.37 at episode 265, eps = 0.5149
+Partly solved at episode 265!
+Running reward: -53.80 at episode 266, eps = 0.5129
+Partly solved at episode 266!
+Running reward: -52.56 at episode 267, eps = 0.5109
+Partly solved at episode 267!
+Running reward: -52.58 at episode 268, eps = 0.5090
+Partly solved at episode 268!
+Running reward: -52.17 at episode 269, eps = 0.5070
+Partly solved at episode 269!
+Running reward: -51.62 at episode 270, eps = 0.5050
+Partly solved at episode 270!
+Running reward: -51.43 at episode 271, eps = 0.5030
+Partly solved at episode 271!
+Running reward: -51.28 at episode 272, eps = 0.5010
+Partly solved at episode 272!
+Running reward: -50.93 at episode 273, eps = 0.4991
+Partly solved at episode 273!
+Running reward: -51.65 at episode 274, eps = 0.4971
+Partly solved at episode 274!
+Running reward: -50.74 at episode 275, eps = 0.4951
+Partly solved at episode 275!
+Running reward: -51.07 at episode 276, eps = 0.4931
+Partly solved at episode 276!
+Running reward: -53.44 at episode 277, eps = 0.4911
+Partly solved at episode 277!
+Running reward: -52.67 at episode 278, eps = 0.4892
+Partly solved at episode 278!
+Running reward: -52.77 at episode 279, eps = 0.4872
+Partly solved at episode 279!
+Running reward: -51.34 at episode 280, eps = 0.4852
+Partly solved at episode 280!
+Running reward: -49.94 at episode 281, eps = 0.4832
+Partly solved at episode 281!
+Running reward: -49.07 at episode 282, eps = 0.4812
+Partly solved at episode 282!
+Running reward: -48.33 at episode 283, eps = 0.4793
+Partly solved at episode 283!
+Running reward: -50.96 at episode 284, eps = 0.4773
+Partly solved at episode 284!
+Running reward: -50.25 at episode 285, eps = 0.4753
+Partly solved at episode 285!
+Running reward: -50.15 at episode 286, eps = 0.4733
+Partly solved at episode 286!
+Running reward: -50.46 at episode 287, eps = 0.4713
+Partly solved at episode 287!
+Running reward: -49.97 at episode 288, eps = 0.4694
+Partly solved at episode 288!
+Running reward: -50.00 at episode 289, eps = 0.4674
+Partly solved at episode 289!
+Running reward: -49.46 at episode 290, eps = 0.4654
+Partly solved at episode 290!
+Running reward: -48.87 at episode 291, eps = 0.4634
+Partly solved at episode 291!
+Running reward: -48.74 at episode 292, eps = 0.4614
+Partly solved at episode 292!
+Running reward: -48.70 at episode 293, eps = 0.4595
+Partly solved at episode 293!
+Running reward: -47.63 at episode 294, eps = 0.4575
+Partly solved at episode 294!
+Running reward: -46.86 at episode 295, eps = 0.4555
+Partly solved at episode 295!
+Running reward: -46.59 at episode 296, eps = 0.4535
+Partly solved at episode 296!
+Running reward: -45.62 at episode 297, eps = 0.4515
+Partly solved at episode 297!
+Running reward: -45.57 at episode 298, eps = 0.4496
+Partly solved at episode 298!
+Running reward: -45.21 at episode 299, eps = 0.4476
+Partly solved at episode 299!
+Running reward: -44.69 at episode 300, eps = 0.4456
+Partly solved at episode 300!
+Running reward: -43.97 at episode 301, eps = 0.4436
+Partly solved at episode 301!
+Running reward: -42.97 at episode 302, eps = 0.4416
+Partly solved at episode 302!
+Running reward: -41.40 at episode 303, eps = 0.4397
+Partly solved at episode 303!
+Running reward: -40.37 at episode 304, eps = 0.4377
+Partly solved at episode 304!
+Running reward: -38.93 at episode 305, eps = 0.4357
+Partly solved at episode 305!
+Running reward: -39.52 at episode 306, eps = 0.4337
+Partly solved at episode 306!
+Running reward: -38.43 at episode 307, eps = 0.4317
+Partly solved at episode 307!
+Running reward: -37.74 at episode 308, eps = 0.4298
+Partly solved at episode 308!
+Running reward: -37.39 at episode 309, eps = 0.4278
+Partly solved at episode 309!
+Running reward: -36.72 at episode 310, eps = 0.4258
+Partly solved at episode 310!
+Running reward: -36.52 at episode 311, eps = 0.4238
+Partly solved at episode 311!
+Running reward: -36.50 at episode 312, eps = 0.4218
+Partly solved at episode 312!
+Running reward: -35.86 at episode 313, eps = 0.4199
+Partly solved at episode 313!
+Running reward: -36.61 at episode 314, eps = 0.4179
+Partly solved at episode 314!
+Running reward: -35.67 at episode 315, eps = 0.4159
+Partly solved at episode 315!
+Running reward: -35.41 at episode 316, eps = 0.4139
+Partly solved at episode 316!
+Running reward: -35.03 at episode 317, eps = 0.4119
+Partly solved at episode 317!
+Running reward: -34.09 at episode 318, eps = 0.4100
+Partly solved at episode 318!
+Running reward: -35.42 at episode 319, eps = 0.4080
+Partly solved at episode 319!
+Running reward: -34.91 at episode 320, eps = 0.4060
+Partly solved at episode 320!
+Running reward: -34.85 at episode 321, eps = 0.4040
+Partly solved at episode 321!
+Running reward: -35.14 at episode 322, eps = 0.4020
+Partly solved at episode 322!
+Running reward: -34.25 at episode 323, eps = 0.4001
+Partly solved at episode 323!
+Running reward: -35.26 at episode 324, eps = 0.3981
+Partly solved at episode 324!
+Running reward: -34.59 at episode 325, eps = 0.3961
+Partly solved at episode 325!
+Running reward: -34.57 at episode 326, eps = 0.3941
+Partly solved at episode 326!
+Running reward: -34.42 at episode 327, eps = 0.3921
+Partly solved at episode 327!
+Running reward: -33.16 at episode 328, eps = 0.3902
+Partly solved at episode 328!
+Running reward: -32.51 at episode 329, eps = 0.3882
+Partly solved at episode 329!
+Running reward: -31.55 at episode 330, eps = 0.3862
+Partly solved at episode 330!
+Running reward: -32.17 at episode 331, eps = 0.3842
+Partly solved at episode 331!
+Running reward: -32.03 at episode 332, eps = 0.3822
+Partly solved at episode 332!
+Running reward: -32.12 at episode 333, eps = 0.3803
+Partly solved at episode 333!
+Running reward: -32.49 at episode 334, eps = 0.3783
+Partly solved at episode 334!
+Running reward: -31.91 at episode 335, eps = 0.3763
+Partly solved at episode 335!
+Running reward: -30.29 at episode 336, eps = 0.3743
+Partly solved at episode 336!
+Running reward: -30.33 at episode 337, eps = 0.3723
+Partly solved at episode 337!
+Running reward: -31.20 at episode 338, eps = 0.3704
+Partly solved at episode 338!
+Running reward: -30.42 at episode 339, eps = 0.3684
+Partly solved at episode 339!
+Running reward: -29.35 at episode 340, eps = 0.3664
+Partly solved at episode 340!
+Running reward: -29.43 at episode 341, eps = 0.3644
+Partly solved at episode 341!
+Running reward: -29.27 at episode 342, eps = 0.3624
+Partly solved at episode 342!
+Running reward: -30.02 at episode 343, eps = 0.3605
+Partly solved at episode 343!
+Running reward: -30.61 at episode 344, eps = 0.3585
+Partly solved at episode 344!
+Running reward: -30.10 at episode 345, eps = 0.3565
+Partly solved at episode 345!
+Running reward: -27.73 at episode 346, eps = 0.3545
+Partly solved at episode 346!
+Running reward: -27.00 at episode 347, eps = 0.3525
+Partly solved at episode 347!
+Running reward: -26.31 at episode 348, eps = 0.3506
+Partly solved at episode 348!
+Running reward: -25.92 at episode 349, eps = 0.3486
+Partly solved at episode 349!
+Running reward: -26.93 at episode 350, eps = 0.3466
+Partly solved at episode 350!
+Running reward: -27.53 at episode 351, eps = 0.3446
+Partly solved at episode 351!
+Running reward: -26.32 at episode 352, eps = 0.3426
+Partly solved at episode 352!
+Running reward: -26.76 at episode 353, eps = 0.3407
+Partly solved at episode 353!
+Running reward: -26.80 at episode 354, eps = 0.3387
+Partly solved at episode 354!
+Running reward: -24.85 at episode 355, eps = 0.3367
+Partly solved at episode 355!
+Running reward: -23.11 at episode 356, eps = 0.3347
+Partly solved at episode 356!
+Running reward: -21.78 at episode 357, eps = 0.3327
+Partly solved at episode 357!
+Running reward: -21.41 at episode 358, eps = 0.3308
+Partly solved at episode 358!
+Running reward: -21.30 at episode 359, eps = 0.3288
+Partly solved at episode 359!
+Running reward: -21.23 at episode 360, eps = 0.3268
+Partly solved at episode 360!
+Running reward: -20.61 at episode 361, eps = 0.3248
+Partly solved at episode 361!
+Running reward: -19.92 at episode 362, eps = 0.3228
+Partly solved at episode 362!
+Running reward: -19.27 at episode 363, eps = 0.3209
+Partly solved at episode 363!
+Running reward: -17.72 at episode 364, eps = 0.3189
+Partly solved at episode 364!
+Running reward: -17.99 at episode 365, eps = 0.3169
+Partly solved at episode 365!
+Running reward: -17.85 at episode 366, eps = 0.3149
+Partly solved at episode 366!
+Running reward: -17.93 at episode 367, eps = 0.3129
+Partly solved at episode 367!
+Running reward: -17.26 at episode 368, eps = 0.3110
+Partly solved at episode 368!
+Running reward: -17.26 at episode 369, eps = 0.3090
+Partly solved at episode 369!
+Running reward: -16.63 at episode 370, eps = 0.3070
+Partly solved at episode 370!
+Running reward: -14.93 at episode 371, eps = 0.3050
+Partly solved at episode 371!
+Running reward: -14.43 at episode 372, eps = 0.3030
+Partly solved at episode 372!
+Running reward: -13.74 at episode 373, eps = 0.3011
+Partly solved at episode 373!
+Running reward: -11.49 at episode 374, eps = 0.2991
+Partly solved at episode 374!
+Running reward: -11.34 at episode 375, eps = 0.2971
+Partly solved at episode 375!
+Running reward: -10.47 at episode 376, eps = 0.2951
+Partly solved at episode 376!
+Running reward: -7.19 at episode 377, eps = 0.2931
+Partly solved at episode 377!
+Running reward: -7.93 at episode 378, eps = 0.2912
+Partly solved at episode 378!
+Running reward: -6.39 at episode 379, eps = 0.2892
+Partly solved at episode 379!
+Running reward: -5.68 at episode 380, eps = 0.2872
+Partly solved at episode 380!
+Running reward: -5.76 at episode 381, eps = 0.2852
+Partly solved at episode 381!
+Running reward: -5.37 at episode 382, eps = 0.2832
+Partly solved at episode 382!
+Running reward: -5.37 at episode 383, eps = 0.2813
+Partly solved at episode 383!
+Running reward: -2.44 at episode 384, eps = 0.2793
+Partly solved at episode 384!
+Running reward: -2.79 at episode 385, eps = 0.2773
+Partly solved at episode 385!
+Running reward: -1.49 at episode 386, eps = 0.2753
+Partly solved at episode 386!
+Running reward: -1.38 at episode 387, eps = 0.2733
+Partly solved at episode 387!
+Running reward: -1.23 at episode 388, eps = 0.2714
+Partly solved at episode 388!
+Running reward: -0.05 at episode 389, eps = 0.2694
+Partly solved at episode 389!
+Running reward: -0.01 at episode 390, eps = 0.2674
+Partly solved at episode 390!
+Running reward: -0.27 at episode 391, eps = 0.2654
+Partly solved at episode 391!
+Running reward: -0.29 at episode 392, eps = 0.2634
+Partly solved at episode 392!
+Running reward: 0.22 at episode 393, eps = 0.2615
+Partly solved at episode 393!
+Running reward: 0.05 at episode 394, eps = 0.2595
+Partly solved at episode 394!
+Running reward: -0.57 at episode 395, eps = 0.2575
+Partly solved at episode 395!
+Running reward: -0.29 at episode 396, eps = 0.2555
+Partly solved at episode 396!
+Running reward: 0.06 at episode 397, eps = 0.2535
+Partly solved at episode 397!
+Running reward: 1.32 at episode 398, eps = 0.2516
+Partly solved at episode 398!
+Running reward: 1.54 at episode 399, eps = 0.2496
+Partly solved at episode 399!
+Running reward: 2.85 at episode 400, eps = 0.2476
+Partly solved at episode 400!
+Running reward: 2.95 at episode 401, eps = 0.2456
+Partly solved at episode 401!
+Running reward: 3.45 at episode 402, eps = 0.2436
+Partly solved at episode 402!
+Running reward: 3.11 at episode 403, eps = 0.2417
+Partly solved at episode 403!
+Running reward: 2.75 at episode 404, eps = 0.2397
+Partly solved at episode 404!
+Running reward: 2.73 at episode 405, eps = 0.2377
+Partly solved at episode 405!
+Running reward: 3.05 at episode 406, eps = 0.2357
+Partly solved at episode 406!
+Running reward: 1.60 at episode 407, eps = 0.2337
+Partly solved at episode 407!
+Running reward: 1.92 at episode 408, eps = 0.2318
+Partly solved at episode 408!
+Running reward: 1.58 at episode 409, eps = 0.2298
+Partly solved at episode 409!
+Running reward: 1.53 at episode 410, eps = 0.2278
+Partly solved at episode 410!
+Running reward: 2.30 at episode 411, eps = 0.2258
+Partly solved at episode 411!
+Running reward: 2.70 at episode 412, eps = 0.2238
+Partly solved at episode 412!
+Running reward: 1.64 at episode 413, eps = 0.2219
+Partly solved at episode 413!
+Running reward: 2.77 at episode 414, eps = 0.2199
+Partly solved at episode 414!
+Running reward: 4.32 at episode 415, eps = 0.2179
+Partly solved at episode 415!
+Running reward: 4.85 at episode 416, eps = 0.2159
+Partly solved at episode 416!
+Running reward: 7.13 at episode 417, eps = 0.2139
+Partly solved at episode 417!
+Running reward: 6.77 at episode 418, eps = 0.2120
+Partly solved at episode 418!
+Running reward: 8.57 at episode 419, eps = 0.2100
+Partly solved at episode 419!
+Running reward: 9.86 at episode 420, eps = 0.2080
+Partly solved at episode 420!
+Running reward: 12.03 at episode 421, eps = 0.2060
+Partly solved at episode 421!
+Running reward: 13.91 at episode 422, eps = 0.2040
+Partly solved at episode 422!
+Running reward: 14.88 at episode 423, eps = 0.2021
+Partly solved at episode 423!
+Running reward: 15.63 at episode 424, eps = 0.2001
+Partly solved at episode 424!
+Running reward: 16.98 at episode 425, eps = 0.1981
+Partly solved at episode 425!
+Running reward: 18.04 at episode 426, eps = 0.1961
+Partly solved at episode 426!
+Running reward: 19.66 at episode 427, eps = 0.1941
+Partly solved at episode 427!
+Running reward: 19.31 at episode 428, eps = 0.1922
+Partly solved at episode 428!
+Running reward: 20.32 at episode 429, eps = 0.1902
+Partly solved at episode 429!
+Running reward: 21.04 at episode 430, eps = 0.1882
+Partly solved at episode 430!
+Running reward: 23.83 at episode 431, eps = 0.1862
+Partly solved at episode 431!
+Running reward: 25.50 at episode 432, eps = 0.1842
+Partly solved at episode 432!
+Running reward: 27.32 at episode 433, eps = 0.1823
+Partly solved at episode 433!
+Running reward: 28.43 at episode 434, eps = 0.1803
+Partly solved at episode 434!
+Running reward: 29.50 at episode 435, eps = 0.1783
+Partly solved at episode 435!
+Running reward: 29.32 at episode 436, eps = 0.1763
+Partly solved at episode 436!
+Running reward: 29.54 at episode 437, eps = 0.1743
+Partly solved at episode 437!
+Running reward: 30.72 at episode 438, eps = 0.1724
+Partly solved at episode 438!
+Running reward: 30.99 at episode 439, eps = 0.1704
+Partly solved at episode 439!
+Running reward: 32.63 at episode 440, eps = 0.1684
+Partly solved at episode 440!
+Running reward: 33.95 at episode 441, eps = 0.1664
+Partly solved at episode 441!
+Running reward: 35.96 at episode 442, eps = 0.1644
+Partly solved at episode 442!
+Running reward: 37.26 at episode 443, eps = 0.1625
+Partly solved at episode 443!
+Running reward: 39.34 at episode 444, eps = 0.1605
+Partly solved at episode 444!
+Running reward: 42.52 at episode 445, eps = 0.1585
+Partly solved at episode 445!
+Running reward: 42.67 at episode 446, eps = 0.1565
+Partly solved at episode 446!
+Running reward: 44.73 at episode 447, eps = 0.1545
+Partly solved at episode 447!
+Running reward: 47.34 at episode 448, eps = 0.1526
+Partly solved at episode 448!
+Running reward: 47.60 at episode 449, eps = 0.1506
+Partly solved at episode 449!
+Running reward: 50.79 at episode 450, eps = 0.1486
+Partly solved at episode 450!
+Running reward: 50.82 at episode 451, eps = 0.1466
+Partly solved at episode 451!
+Running reward: 51.80 at episode 452, eps = 0.1446
+Partly solved at episode 452!
+Running reward: 53.56 at episode 453, eps = 0.1427
+Partly solved at episode 453!
+Running reward: 56.13 at episode 454, eps = 0.1407
+Partly solved at episode 454!
+Running reward: 54.69 at episode 455, eps = 0.1387
+Partly solved at episode 455!
+Running reward: 55.64 at episode 456, eps = 0.1367
+Partly solved at episode 456!
+Running reward: 56.27 at episode 457, eps = 0.1347
+Partly solved at episode 457!
+Running reward: 57.17 at episode 458, eps = 0.1328
+Partly solved at episode 458!
+Running reward: 56.90 at episode 459, eps = 0.1308
+Partly solved at episode 459!
+Running reward: 59.08 at episode 460, eps = 0.1288
+Partly solved at episode 460!
+Running reward: 60.83 at episode 461, eps = 0.1268
+Partly solved at episode 461!
+Running reward: 61.66 at episode 462, eps = 0.1248
+Partly solved at episode 462!
+Running reward: 62.04 at episode 463, eps = 0.1229
+Partly solved at episode 463!
+Running reward: 63.80 at episode 464, eps = 0.1209
+Partly solved at episode 464!
+Running reward: 64.45 at episode 465, eps = 0.1189
+Partly solved at episode 465!
+Running reward: 64.59 at episode 466, eps = 0.1169
+Partly solved at episode 466!
+Running reward: 64.48 at episode 467, eps = 0.1149
+Partly solved at episode 467!
+Running reward: 64.62 at episode 468, eps = 0.1130
+Partly solved at episode 468!
+Running reward: 64.66 at episode 469, eps = 0.1110
+Partly solved at episode 469!
+Running reward: 65.71 at episode 470, eps = 0.1090
+Partly solved at episode 470!
+Running reward: 64.72 at episode 471, eps = 0.1070
+Partly solved at episode 471!
+Running reward: 65.05 at episode 472, eps = 0.1050
+Partly solved at episode 472!
+Running reward: 64.78 at episode 473, eps = 0.1031
+Partly solved at episode 473!
+Running reward: 64.05 at episode 474, eps = 0.1011
+Partly solved at episode 474!
+Running reward: 63.79 at episode 475, eps = 0.0991
+Partly solved at episode 475!
+Running reward: 64.02 at episode 476, eps = 0.0971
+Partly solved at episode 476!
+Running reward: 63.62 at episode 477, eps = 0.0951
+Partly solved at episode 477!
+Running reward: 65.71 at episode 478, eps = 0.0932
+Partly solved at episode 478!
+Running reward: 64.42 at episode 479, eps = 0.0912
+Partly solved at episode 479!
+Running reward: 63.58 at episode 480, eps = 0.0892
+Partly solved at episode 480!
+Running reward: 63.17 at episode 481, eps = 0.0872
+Partly solved at episode 481!
+Running reward: 62.60 at episode 482, eps = 0.0852
+Partly solved at episode 482!
+Running reward: 62.71 at episode 483, eps = 0.0833
+Partly solved at episode 483!
+Running reward: 65.08 at episode 484, eps = 0.0813
+Partly solved at episode 484!
+Running reward: 65.34 at episode 485, eps = 0.0793
+Partly solved at episode 485!
+Running reward: 64.53 at episode 486, eps = 0.0773
+Partly solved at episode 486!
+Running reward: 64.89 at episode 487, eps = 0.0753
+Partly solved at episode 487!
+Running reward: 65.12 at episode 488, eps = 0.0734
+Partly solved at episode 488!
+Running reward: 64.43 at episode 489, eps = 0.0714
+Partly solved at episode 489!
+Running reward: 64.55 at episode 490, eps = 0.0694
+Partly solved at episode 490!
+Running reward: 64.84 at episode 491, eps = 0.0674
+Partly solved at episode 491!
+Running reward: 65.44 at episode 492, eps = 0.0654
+Partly solved at episode 492!
+Running reward: 65.95 at episode 493, eps = 0.0635
+Partly solved at episode 493!
+Running reward: 66.12 at episode 494, eps = 0.0615
+Partly solved at episode 494!
+Running reward: 67.10 at episode 495, eps = 0.0595
+Partly solved at episode 495!
+Running reward: 66.98 at episode 496, eps = 0.0575
+Partly solved at episode 496!
+Running reward: 66.68 at episode 497, eps = 0.0555
+Partly solved at episode 497!
+Running reward: 66.16 at episode 498, eps = 0.0536
+Partly solved at episode 498!
+Running reward: 66.38 at episode 499, eps = 0.0516
+Partly solved at episode 499!
+Running reward: 67.52 at episode 500, eps = 0.0496
+Partly solved at episode 500!
+Running reward: 70.12 at episode 501, eps = 0.0476
+Partly solved at episode 501!
+Running reward: 69.95 at episode 502, eps = 0.0456
+Partly solved at episode 502!
+Running reward: 71.45 at episode 503, eps = 0.0437
+Partly solved at episode 503!
+Running reward: 74.32 at episode 504, eps = 0.0417
+Partly solved at episode 504!
+Running reward: 76.80 at episode 505, eps = 0.0397
+Partly solved at episode 505!
+Running reward: 78.89 at episode 506, eps = 0.0377
+Partly solved at episode 506!
+Running reward: 79.84 at episode 507, eps = 0.0357
+Partly solved at episode 507!
+Running reward: 80.85 at episode 508, eps = 0.0338
+Partly solved at episode 508!
+Running reward: 82.50 at episode 509, eps = 0.0318
+Partly solved at episode 509!
+Running reward: 85.55 at episode 510, eps = 0.0298
+Partly solved at episode 510!
+Running reward: 86.78 at episode 511, eps = 0.0278
+Partly solved at episode 511!
+Running reward: 89.17 at episode 512, eps = 0.0258
+Partly solved at episode 512!
+Running reward: 92.62 at episode 513, eps = 0.0239
+Partly solved at episode 513!
+Running reward: 94.88 at episode 514, eps = 0.0219
+Partly solved at episode 514!
+Running reward: 95.18 at episode 515, eps = 0.0199
+Partly solved at episode 515!
+Running reward: 96.03 at episode 516, eps = 0.0179
+Partly solved at episode 516!
+Running reward: 93.80 at episode 517, eps = 0.0159
+Partly solved at episode 517!
+Running reward: 95.79 at episode 518, eps = 0.0140
+Partly solved at episode 518!
+Running reward: 96.79 at episode 519, eps = 0.0120
+Partly solved at episode 519!
+Running reward: 97.69 at episode 520, eps = 0.0100
+Partly solved at episode 520!
+Running reward: 98.93 at episode 521, eps = 0.0100
+Partly solved at episode 521!
+Running reward: 99.71 at episode 522, eps = 0.0100
+Partly solved at episode 522!
+Running reward: 100.11 at episode 523, eps = 0.0100
+Partly solved at episode 523!
+Running reward: 102.37 at episode 524, eps = 0.0100
+Partly solved at episode 524!
+Running reward: 103.56 at episode 525, eps = 0.0100
+Partly solved at episode 525!
+Running reward: 104.99 at episode 526, eps = 0.0100
+Partly solved at episode 526!
+Running reward: 106.27 at episode 527, eps = 0.0100
+Partly solved at episode 527!
+Running reward: 109.13 at episode 528, eps = 0.0100
+Partly solved at episode 528!
+Running reward: 110.14 at episode 529, eps = 0.0100
+Partly solved at episode 529!
+Running reward: 111.31 at episode 530, eps = 0.0100
+Partly solved at episode 530!
+Running reward: 112.08 at episode 531, eps = 0.0100
+Partly solved at episode 531!
+Running reward: 113.00 at episode 532, eps = 0.0100
+Partly solved at episode 532!
+Running reward: 113.55 at episode 533, eps = 0.0100
+Partly solved at episode 533!
+Running reward: 115.09 at episode 534, eps = 0.0100
+Partly solved at episode 534!
+Running reward: 114.62 at episode 535, eps = 0.0100
+Partly solved at episode 535!
+Running reward: 115.82 at episode 536, eps = 0.0100
+Partly solved at episode 536!
+Running reward: 117.98 at episode 537, eps = 0.0100
+Partly solved at episode 537!
+Running reward: 120.73 at episode 538, eps = 0.0100
+Partly solved at episode 538!
+Running reward: 121.44 at episode 539, eps = 0.0100
+Partly solved at episode 539!
+Running reward: 121.74 at episode 540, eps = 0.0100
+Partly solved at episode 540!
+Running reward: 123.03 at episode 541, eps = 0.0100
+Partly solved at episode 541!
+Running reward: 123.73 at episode 542, eps = 0.0100
+Partly solved at episode 542!
+Running reward: 123.70 at episode 543, eps = 0.0100
+Partly solved at episode 543!
+Running reward: 124.38 at episode 544, eps = 0.0100
+Partly solved at episode 544!
+Running reward: 124.64 at episode 545, eps = 0.0100
+Partly solved at episode 545!
+Running reward: 126.61 at episode 546, eps = 0.0100
+Partly solved at episode 546!
+Running reward: 126.95 at episode 547, eps = 0.0100
+Partly solved at episode 547!
+Running reward: 127.20 at episode 548, eps = 0.0100
+Partly solved at episode 548!
+Running reward: 129.79 at episode 549, eps = 0.0100
+Partly solved at episode 549!
+Running reward: 132.13 at episode 550, eps = 0.0100
+Partly solved at episode 550!
+Running reward: 135.28 at episode 551, eps = 0.0100
+Partly solved at episode 551!
+Running reward: 136.86 at episode 552, eps = 0.0100
+Partly solved at episode 552!
+Running reward: 137.97 at episode 553, eps = 0.0100
+Partly solved at episode 553!
+Running reward: 138.51 at episode 554, eps = 0.0100
+Partly solved at episode 554!
+Running reward: 141.15 at episode 555, eps = 0.0100
+Partly solved at episode 555!
+Running reward: 142.58 at episode 556, eps = 0.0100
+Partly solved at episode 556!
+Running reward: 143.78 at episode 557, eps = 0.0100
+Partly solved at episode 557!
+Running reward: 145.34 at episode 558, eps = 0.0100
+Partly solved at episode 558!
+Running reward: 147.46 at episode 559, eps = 0.0100
+Partly solved at episode 559!
+Running reward: 147.85 at episode 560, eps = 0.0100
+Partly solved at episode 560!
+Running reward: 149.11 at episode 561, eps = 0.0100
+Partly solved at episode 561!
+Running reward: 150.95 at episode 562, eps = 0.0100
+Partly solved at episode 562!
+Running reward: 153.22 at episode 563, eps = 0.0100
+Partly solved at episode 563!
+Running reward: 155.64 at episode 564, eps = 0.0100
+Partly solved at episode 564!
+Running reward: 157.39 at episode 565, eps = 0.0100
+Partly solved at episode 565!
+Running reward: 160.22 at episode 566, eps = 0.0100
+Partly solved at episode 566!
+Running reward: 163.09 at episode 567, eps = 0.0100
+Partly solved at episode 567!
+Running reward: 165.49 at episode 568, eps = 0.0100
+Partly solved at episode 568!
+Running reward: 168.31 at episode 569, eps = 0.0100
+Partly solved at episode 569!
+Running reward: 168.98 at episode 570, eps = 0.0100
+Partly solved at episode 570!
+Running reward: 171.07 at episode 571, eps = 0.0100
+Partly solved at episode 571!
+Running reward: 173.71 at episode 572, eps = 0.0100
+Partly solved at episode 572!
+Running reward: 174.97 at episode 573, eps = 0.0100
+Partly solved at episode 573!
+Running reward: 176.74 at episode 574, eps = 0.0100
+Partly solved at episode 574!
+Running reward: 179.55 at episode 575, eps = 0.0100
+Partly solved at episode 575!
+Running reward: 181.02 at episode 576, eps = 0.0100
+Partly solved at episode 576!
+Running reward: 183.26 at episode 577, eps = 0.0100
+Partly solved at episode 577!
+Running reward: 184.59 at episode 578, eps = 0.0100
+Partly solved at episode 578!
+Running reward: 187.29 at episode 579, eps = 0.0100
+Partly solved at episode 579!
+Running reward: 189.48 at episode 580, eps = 0.0100
+Partly solved at episode 580!
+Running reward: 192.45 at episode 581, eps = 0.0100
+Partly solved at episode 581!
+Running reward: 195.40 at episode 582, eps = 0.0100
+Partly solved at episode 582!
+Running reward: 197.73 at episode 583, eps = 0.0100
+Partly solved at episode 583!
+Running reward: 197.78 at episode 584, eps = 0.0100
+Partly solved at episode 584!
+Running reward: 199.10 at episode 585, eps = 0.0100
+Partly solved at episode 585!
+Running reward: 193.38 at episode 586, eps = 0.0100
+Partly solved at episode 586!
+Running reward: 194.12 at episode 587, eps = 0.0100
+Partly solved at episode 587!
+Running reward: 196.41 at episode 588, eps = 0.0100
+Partly solved at episode 588!
+Running reward: 199.02 at episode 589, eps = 0.0100
+Partly solved at episode 589!
+Running reward: 201.60 at episode 590, eps = 0.0100
+Partly solved at episode 590!
+Solved at episode 590!
